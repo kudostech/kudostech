@@ -17,6 +17,7 @@ I build clean, user-friendly web and mobile applications using modern JavaScript
 **Mobile**: - React Native
 
 **UI/UX**: - Figma
+
 ---
 
 ## 📌 Current Focus
