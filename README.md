@@ -8,24 +8,15 @@ I build clean, user-friendly web and mobile applications using modern JavaScript
 
 ## 🚀 Tech Stack
 
-**Frontend**
-- React
-- Tailwind CSS
-- HTML, CSS, JavaScript
+**Frontend**: - React - Tailwind CSS - HTML, CSS, JavaScript
 
-**Backend**
-- Node.js
-- Express
+**Backend**: - Node.js - Express
 
-**Database**
-- MySQL
+**Database**: - MySQL
 
-**Mobile**
-- React Native
+**Mobile**: - React Native
 
-**UI/UX**
-- Figma
-
+**UI/UX**: - Figma
 ---
 
 ## 📌 Current Focus
