@@ -1,12 +1,12 @@
 # Hi, I'm Qudus 👋
 
-Full-Stack JavaScript Developer based in Manchester, UK 🇬🇧
+Full-Stack JavaScript Developer based in Manchester, UK 
 
 I build clean, user-friendly web and mobile applications using modern JavaScript tools. I enjoy turning ideas into real products and continuously improving my skills through projects and community learning.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 **Frontend**: - React - Tailwind CSS - HTML, CSS, JavaScript
 
